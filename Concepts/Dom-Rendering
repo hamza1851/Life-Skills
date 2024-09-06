@@ -1,43 +1,38 @@
 # How Browsers Render HTML, CSS, and JavaScript to the DOM
 
-- A browser is a simple software that can load files from your computer (HDD/SSD) or from a remote server.
-- The browser then determines how to display the content.
+Browsers are software applications designed to load and display files, such as HTML, CSS, and JavaScript, from a local machine or a remote server. The process of rendering web pages involves multiple steps, executed by the browser's rendering engine.
 
-## How Browsers Compute How to Display Files
+## 1. Parsing HTML and Building the DOM
 
-Browsers use an engine that algorithmically determines how to display content.
+1. **Tokenization**: When the browser loads an HTML file, it reads the file byte by byte, converts these bytes into characters, and tokenizes them. These tokens are then parsed into the Document Object Model (DOM), a tree-like structure representing the content of the web page.
 
-* Example: The **Gecko** browser engine is used in **Firefox**.
+2. **DOM Construction**: Each HTML tag becomes a node in this tree. The DOM is a structured representation of the HTML document, and it is key to how the browser knows what to display.
 
-## How the Browser Loads Files
+## 2. Handling CSS with CSSOM
 
-### Tokenization
-The engine parses all the content and creates tokens.
+Once the HTML has been parsed, the browser begins constructing the CSS Object Model (CSSOM) from any external stylesheets or internal `<style>` elements. The CSSOM, like the DOM, is a tree structure and is combined with the DOM to create the **Render Tree**.
 
-### Document Object Model (DOM) Tree
+- **DOM + CSSOM = Render Tree**
 
-- HTML file: The browser reads the HTML file in bytes, then converts these bytes into characters. This is followed by tokenization using a parser.
-- The browser converts the tokens into nodes (each node is distinct).
-- The nodes are represented in the form of a tree.
+CSS properties like `display: none` affect the render tree, making elements invisible but still part of the DOM.
 
-This is not the final result rendered in the browser.
+## 3. JavaScript Execution and Interaction
 
-### How Design Comes Into Play
+JavaScript can manipulate both the DOM and CSSOM through various APIs. However, when the browser encounters a `<script>` tag, DOM construction is paused until the script is downloaded and executed, especially if it is placed at the top of the document.
 
-- HTML: Hypertext and some other documents/objects are linked with HTML.
-- CSS Object Model: CSSOM is a tree data structure. CSS is handled by the browser according to the flow mentioned below:
-  - CSS bytes → characters → tokenization → nodes → CSSOM.
+To avoid blocking rendering, it's a best practice to place script tags at the end of the body, or use the `async` or `defer` attributes.
 
-**DOM + CSSOM = Render Tree**
+## 4. Rendering and Painting
 
-- The **display: none** property makes the content invisible in the render tree, but the content remains in the DOM tree.
+1. **Layout (Reflow)**: After combining the DOM and CSSOM into the render tree, the browser calculates the size and position of each element on the page.
 
-## Render Tree
+2. **Painting**: The browser paints the pixels to the screen based on the calculated layout.
 
-Before the render tree is displayed on the browser's viewport, one more step is involved called layout.
-In this step, the browser calculates the sizes, positions, and other metrics for each element.
+3. **Compositing**: For complex elements, the browser may separate parts of the page into layers and composite them together for rendering efficiency.
 
-### Painting
-- DOM construction is paused when the browser hits a script tag.
-- The script should be placed at the end of the body tag so that all content is loaded.
-- In most engines, the DOM is halted until the CSSOM is constructed.
+---
+
+## References
+
+- [How Browsers Work](https://blog.logrocket.com/how-browser-rendering-works-behind-scenes/)
+- [MDN Web Docs - Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
