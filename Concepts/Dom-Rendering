@@ -1,0 +1,43 @@
+# How Browsers Render HTML, CSS, and JavaScript to the DOM
+
+- A browser is a simple software that can load files from your computer (HDD/SSD) or from a remote server.
+- The browser then determines how to display the content.
+
+## How Browsers Compute How to Display Files
+
+Browsers use an engine that algorithmically determines how to display content.
+
+* Example: The **Gecko** browser engine is used in **Firefox**.
+
+## How the Browser Loads Files
+
+### Tokenization
+The engine parses all the content and creates tokens.
+
+### Document Object Model (DOM) Tree
+
+- HTML file: The browser reads the HTML file in bytes, then converts these bytes into characters. This is followed by tokenization using a parser.
+- The browser converts the tokens into nodes (each node is distinct).
+- The nodes are represented in the form of a tree.
+
+This is not the final result rendered in the browser.
+
+### How Design Comes Into Play
+
+- HTML: Hypertext and some other documents/objects are linked with HTML.
+- CSS Object Model: CSSOM is a tree data structure. CSS is handled by the browser according to the flow mentioned below:
+  - CSS bytes → characters → tokenization → nodes → CSSOM.
+
+**DOM + CSSOM = Render Tree**
+
+- The **display: none** property makes the content invisible in the render tree, but the content remains in the DOM tree.
+
+## Render Tree
+
+Before the render tree is displayed on the browser's viewport, one more step is involved called layout.
+In this step, the browser calculates the sizes, positions, and other metrics for each element.
+
+### Painting
+- DOM construction is paused when the browser hits a script tag.
+- The script should be placed at the end of the body tag so that all content is loaded.
+- In most engines, the DOM is halted until the CSSOM is constructed.
