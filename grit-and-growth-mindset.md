@@ -11,3 +11,12 @@ Growth mindset is about believing you can improve your skills through practice a
 ## Questions-3
 
 Internal locus of control believes individuals control their own outcomes. This fosters motivation by empowering them to take responsibility for their success.
+
+## Question-4
+
+The key points mentioned in the video "How to Build a Growth Mindset" are:
+
+- Believe in your ability to figure things out.
+- Question your assumptions.
+- Create your own curriculum for growth.
+- Honor the struggle.
