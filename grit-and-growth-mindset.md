@@ -20,3 +20,14 @@ The key points mentioned in the video "How to Build a Growth Mindset" are:
 - Question your assumptions.
 - Create your own curriculum for growth.
 - Honor the struggle.
+
+## Question-5
+
+To build a growth mindset as a software developer:
+
+- Set specific learning goals and break them down into smaller steps.
+- Embrace challenges and failures as opportunities for growth.
+- Seek feedback and mentorship to identify areas for improvement.
+- Engage in continuous learning by staying up-to-date and participating in various activities.
+- Collaborate with others to learn from diverse perspectives.
+- Reflect on your progress and celebrate your successes.
