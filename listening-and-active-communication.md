@@ -20,4 +20,9 @@ Reflective listening is subset of active listening, In other words, Reflective l
 - Validate the other person's feelings and contribute to a calmer, more positive atmosphere
 - Summarize the key points of the conversation
 
+## Question-3: What are the obstacles in your listening process?
 
+- Irrelevant thoughts
+- Noise
+- Mental state
+- Hearing problem
