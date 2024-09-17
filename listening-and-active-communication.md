@@ -33,3 +33,9 @@ Reflective listening is subset of active listening, In other words, Reflective l
 - Reduce noise if possible
 - Practice self reflection to calm down the emotions
 - Use any tool to increase the listening ability
+
+## Questions-5: When do you switch to Passive communication style in your day to day life?
+
+I often switch to a passive communication style in situations where I want to avoid conflict or when I feel overwhelmed.
+For example: if someone strongly expresses their opinion and I disagree, I might choose to stay silent rather than share my thoughts. This can happen when I'm unsure of how my input will be received or when I want to keep the peace among us.
+
