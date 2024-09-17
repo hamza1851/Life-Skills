@@ -26,3 +26,10 @@ Reflective listening is subset of active listening, In other words, Reflective l
 - Noise
 - Mental state
 - Hearing problem
+
+## Question-4: What can you do to improve your listening?
+
+- Try to focus on what speaker is talking about and also try to relate your experiences with that
+- Reduce noise if possible
+- Practice self reflection to calm down the emotions
+- Use any tool to increase the listening ability
