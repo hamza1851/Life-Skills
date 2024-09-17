@@ -43,6 +43,14 @@ For example: if someone strongly expresses their opinion and I disagree, I might
 
 I tend to switch into aggressive communication when I feel frustrated or disrespected. For example, if someone interrupts me repeatedly during a conversation, I might raise my voice
 
-## Question-6: When do you switch into Passive-Aggressive Communication Styles in your Day-to-Day Life?
+## Question-7: When do you switch into Passive-Aggressive Communication Styles in your Day-to-Day Life?
 
 I find myself using passive-aggressive communication when I'm upset but don't want to confront someone directly.
+
+## Question-8:  How Can You Make Your Communication Assertive?
+
+Practice "I" Statements
+Set Boundaries
+Stay Calm
+Use Active Listening
+Be Direct: Instead of hinting at what I want or need, I'll practice stating my needs clearly and confidently.
