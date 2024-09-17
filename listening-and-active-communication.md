@@ -40,4 +40,9 @@ I often switch to a passive communication style in situations where I want to av
 For example: if someone strongly expresses their opinion and I disagree, I might choose to stay silent rather than share my thoughts. This can happen when I'm unsure of how my input will be received or when I want to keep the peace among us.
 
 ## Question-6: When do you switch into Aggressive Communication Styles in your Day-to-Day Life?
+
 I tend to switch into aggressive communication when I feel frustrated or disrespected. For example, if someone interrupts me repeatedly during a conversation, I might raise my voice
+
+## Question-6: When do you switch into Passive-Aggressive Communication Styles in your Day-to-Day Life?
+
+I find myself using passive-aggressive communication when I'm upset but don't want to confront someone directly.
