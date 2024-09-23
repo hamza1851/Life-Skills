@@ -8,7 +8,15 @@ In the video, the most interesting idea is the power of tiny habits to enhance h
 
  The B = MAP formula simplifies habit formation by focusing on three components:
 
-- M (Motivation): Connect the habit to a personal goal to boost motivation.
-- A (Ability): Make the habit easy to perform, like starting small (e.g., a few pages of reading).
-- P (Prompt): Use a trigger, such as linking a new habit to an existing one (e.g., meditating after brushing teeth).
+- **M (Motivation):** Connect the habit to a personal goal to boost motivation.
+- **A (Ability):** Make the habit easy to perform, like starting small (e.g., a few pages of reading).
+- **P (Prompt):** Use a trigger, such as linking a new habit to an existing one (e.g., meditating after brushing teeth).
 By aligning motivation, ability, and prompts, habit-building becomes more sustainable.
+
+## Question 3: Why it is important to "Shine" or Celebrate after each successful completion of habit? (This is the most important concept in today's topic. Whatever you celebrate becomes a habit)
+
+- **Celebration Creates Positive Emotions:** Positive emotions wire the habit into your brain, making you more likely to repeat it.
+- **Strengthens the Habit:** Each celebration reinforces the neural pathways, making the habit automatic over time.
+- **Boosts Motivation:** Celebrating wins shifts focus to progress, increasing motivation and confidence.
+- **Celebration as a Tiny Habit:** Treat celebrating like a habit by making it small and consistent.
+- **Strengthens Relationships:** Sharing celebrations fosters stronger bonds and encourages future success.
