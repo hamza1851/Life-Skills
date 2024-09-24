@@ -14,3 +14,17 @@ I do below things to relax myself:
 ## Question 3: How do you understand if you are in the Excitement quadrant?
 
 I recognize I'm in the Excitement quadrant when I feel energized and motivated.
+
+## Question 4: Paraphrase the Sleep is your Superpower video in your own words in brief. Only the points, no explanation.
+
+- Lack of sleep impacts male reproductive health, leading to smaller testicles and reduced testosterone.
+- Sleep deprivation negatively affects female reproductive health.
+- Sleep is crucial for learning and memory, acting as a "save button" for new memories.
+- Insufficient sleep before learning impairs the brain's ability to absorb new information.
+- Sleep deprivation leads to a 40% decline in memory retention.
+- Deep sleep with brainwaves and spindles helps consolidate memories.
+- Aging and dementia are linked to worsening sleep, affecting cognitive function.
+- Sleep loss weakens the immune system, leading to higher risks of cancer and other diseases.
+- Lack of sleep increases heart attack risk, affects immune cells, and shortens lifespan.
+- Good sleep habits include regularity and cool room temperatures.
+- Sleep is a biological necessity and vital for health, not a luxury.
