@@ -40,3 +40,15 @@ I recognize I'm in the Excitement quadrant when I feel energized and motivated.
 4. **Avoid Daytime Naps**: If you're struggling with sleep at night, steer clear of napping during the day to improve nighttime sleepiness.
 
 5. **Get Out of Bed if You Can't Sleep**: If you're awake for too long in bed, move to another room and do a relaxing activity until you feel sleepy again.
+
+## Question 6:Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, only the points.
+
+1. **Immediate Mood Boost**: Engaging in physical activity can quickly enhance mood and focus by increasing levels of neurotransmitters like dopamine and serotonin.
+
+2. **Long-Term Brain Health**: Regular exercise contributes to the growth of new brain cells, particularly in the hippocampus, which enhances memory and overall cognitive function.
+
+3. **Enhanced Attention and Memory**: Consistent physical activity improves attention span and memory retention, particularly benefiting areas of the brain responsible for these functions.
+
+4. **Protective Effects Against Degenerative Diseases**: Exercise strengthens the brain's structure, particularly the hippocampus and prefrontal cortex, making them more resilient to neurodegenerative conditions like Alzheimer's and dementia.
+
+5. **Minimal Exercise Requirements**: Just three to four sessions of aerobic exercise per week, for at least 30 minutes each, can yield significant benefits for brain health without requiring a gym membership.
