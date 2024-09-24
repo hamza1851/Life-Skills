@@ -28,3 +28,15 @@ I recognize I'm in the Excitement quadrant when I feel energized and motivated.
 - Lack of sleep increases heart attack risk, affects immune cells, and shortens lifespan.
 - Good sleep habits include regularity and cool room temperatures.
 - Sleep is a biological necessity and vital for health, not a luxury.
+
+## Question 5: What are some ideas that you can implement to sleep better?
+
+1. **Establish a Regular Sleep Schedule**: Go to bed and wake up at the same time every day, including weekends, to anchor your sleep.
+
+2. **Keep Your Bedroom Cool**: Set the temperature around 65°F (18°C) to help your body lower its core temperature for better sleep.
+
+3. **Limit Alcohol and Caffeine**: Avoid these substances, especially close to bedtime, as they can disrupt sleep quality.
+
+4. **Avoid Daytime Naps**: If you're struggling with sleep at night, steer clear of napping during the day to improve nighttime sleepiness.
+
+5. **Get Out of Bed if You Can't Sleep**: If you're awake for too long in bed, move to another room and do a relaxing activity until you feel sleepy again.
