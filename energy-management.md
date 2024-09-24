@@ -10,3 +10,7 @@ I do below things to relax myself:
 - I feel stressed whenever a loved one is in need of help and I am unable to assist them.
 - I experience stress when I realize I’m not learning or growing in my life, which makes me anxious about making changes.
 - Most of the time, I can manage my anger, but I struggle when I feel it's necessary to express it.
+
+## Question 3: How do you understand if you are in the Excitement quadrant?
+
+I recognize I'm in the Excitement quadrant when I feel energized and motivated.
