@@ -23,7 +23,7 @@ Cal Newport emphasizes that deep work is essential for the high quality of outpu
 The dangers of social media include:
 
 - **Addiction:** Social media platforms are designed to be addictive, fragmenting attention and reducing the ability to focus on deep work, which is essential for professional success.
-- **Mental Health Issues:** Increased usage is correlated with feelings of loneliness, inadequacy, and higher rates of depression due to constant exposure to curated portrayals of others' lives.
+- **Mental Health Issues:** Increased usage is correlated with feelings of loneliness, inadequacy, and higher rates of depression due to constant exposure to curated portrayals of others lives.
 - **Cognitive Consequences:** Continuous engagement with social media can lead to a pervasive background anxiety and diminish overall cognitive capacity.
 - **Impact on Younger Generations:** The younger generation, being the most saturated with social media, risks losing their ability to concentrate, making them less relevant in a competitive economy.
 - **False Sense of Connection:** While social media may seem harmless or fun, it often creates a superficial sense of connection that can lead to isolation and dissatisfaction in real-life relationships.

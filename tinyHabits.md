@@ -1,29 +1,75 @@
-# Tiny Habits
+# Tiny Habits - BJ Fogg
 
-## Question 1: In this video, what was the most interesting story or idea for you?
+The most interesting idea for me in BJ Fogg's video about *Tiny Habits* is how small habits can lead to long-term healthy outcomes.
 
-In the video, the most interesting idea is the power of tiny habits to enhance happiness and gratitude. Similar to concepts in a book "Atomic Habits" which I have read, the speaker shares his story of that he adopted small daily practices, like writing down three things he is thankful for each morning. This simple act significantly improved his mindset and overall well-being, reinforcing how small changes can lead to profound effects on happiness.
+---
 
-## Question 2: How can you use B = MAP to make making new habits easier? What are M, A and P.
+## Tiny Habits by BJ Fogg - Core Message
 
-The B = MAP formula simplifies habit formation by focusing on three components:
+**Using the B = MAP Framework to Make New Habits Easier**
 
-- **M (Motivation):** Connect the habit to a personal goal to boost motivation.
-- **A (Ability):** Make the habit easy to perform, like starting small (e.g., a few pages of reading).
-- **P (Prompt):** Use a trigger, such as linking a new habit to an existing one (e.g., meditating after brushing teeth).
-  By aligning motivation, ability, and prompts, habit-building becomes more sustainable.
+### Steps to Follow for Easier Habit Formation:
+1. **Shrink** the new behavior to its smallest, manageable version.
+2. **Identify an Action Prompt** to trigger the tiny habit.
+3. **Celebrate** the completion of the tiny habit.
 
-## Question 3: Why it is important to "Shine" or Celebrate after each successful completion of habit? (This is the most important concept in today's topic. Whatever you celebrate becomes a habit)
+> In B = MAP:
+> - **M** stands for *Motivation*,
+> - **A** stands for *Ability*, and
+> - **P** stands for *Prompt*.
 
-- **Celebration Creates Positive Emotions:** Positive emotions wire the habit into your brain, making you more likely to repeat it.
-- **Strengthens the Habit:** Each celebration reinforces the neural pathways, making the habit automatic over time.
-- **Boosts Motivation:** Celebrating wins shifts focus to progress, increasing motivation and confidence.
-- **Celebration as a Tiny Habit:** Treat celebrating like a habit by making it small and consistent.
-- **Strengthens Relationships:** Sharing celebrations fosters stronger bonds and encourages future success.
+---
 
-## Question 4: What was the most interesting story or idea for you?
+### Why It’s Important to "Shine" or Celebrate Each Habit Success
 
-- **Marginal Gains:** British Cycling, led by coach Dave Brailsford, applied the concept of 1% improvements across all areas, transforming their performance.
-- **Small Changes, Big Impact:** Focusing on tiny, incremental improvements, like optimizing equipment and recovery, led to significant results over time.
-- **Success Through Habits:** The idea emphasizes that consistent, small improvements can lead to extraordinary outcomes, aligning with the broader theme of habit formation.
-- **Key Takeaway:** Success is built on manageable daily habits, not grand efforts.
+Celebrating after each successful habit completion is crucial because it provides motivation to continue and reinforces learning new habits. Celebrating builds confidence and enhances the likelihood of consistent habit adoption.
+
+---
+
+# 1% Better Every Day - Video
+
+The most interesting topic for me in this video was the **Four Stages of Habit Formation**:
+1. Noticing
+2. Wanting
+3. Doing
+4. Liking
+
+---
+
+# Book Summary of *Atomic Habits*
+
+### Book’s Perspective on Identity
+
+- Identity change is the guiding star of habit change. Shaping our identity around positive habits can lead to long-term growth.
+
+### Book’s Perspective on How to Make a Habit Easier
+
+1. Make it **Obvious**
+2. Make it **Attractive**
+3. Make it **Easy**
+4. Make it **Satisfying**
+
+### Book’s Perspective on How to Make a Habit Harder to Do
+
+1. Make it **Invisible**
+2. Make it **Ugly**
+3. Make it **Hard**
+4. Make it **Unsatisfying**
+
+---
+
+# Reflection
+
+## The Habit I’d Like to Increase: Drinking Two Glasses of Hot Water in the Morning
+
+**Steps to Make the Habit Easier or More Attractive:**
+- Set an alarm labeled *"Drink Hot Water"* to remind me each morning.
+
+---
+
+## The Habit I’d Like to Reduce: Eating High-Sugar Foods
+
+**Steps to Make the Habit Unattractive or Harder to Do:**
+1. Gradually reduce daily sugar intake.
+2. Reflect on how excessive sugar impacts long-term health.
+
